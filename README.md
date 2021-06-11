@@ -2,14 +2,6 @@
 Repository with a list of upcoming java conferences.
 ====================================================
 
-[**J-SPRING DIGITAL 2021**](https://jspring.nl/)  
-June 2-3 2021  
-**Online**
-
-[**J4K**](https://www.j4k.io/)  
-June 9 2021  
-**Online**
-
 [**Extreme Java Camp**](https://extreme-java-camp.de/)  
 June 21-25 2021  
 **Online**
@@ -32,6 +24,10 @@ October 05-08 2021
 
 [**JAX London**](https://jaxlondon.com/)  
 October 4-7 2021  
+**Offline & Online**
+
+[**W-JAX**](https://jax.de/munich/)  
+November 8 – 12 2021 
 **Offline & Online**
 
 [**Devoxx Ukraine**](https://devoxx.com.ua/)  
