@@ -2,14 +2,6 @@
 Repository with a list of upcoming java conferences.
 ====================================================
 
-[**Extreme Java Camp**](https://extreme-java-camp.de/)  
-June 21-25 2021  
-**Online**
-
-[**JLove**](https://jlove.konfy.care/)  
-June 25 2021  
-**Online**
-
 [**jbcnconf**](https://www.jbcnconf.com/2021/)  
 July 23 2021  
 **Online**
@@ -25,6 +17,10 @@ October 05-08 2021
 [**JAX London**](https://jaxlondon.com/)  
 October 4-7 2021  
 **Offline & Online**
+
+[**I Code Java Africa 2021**](http://j-sa.co)  
+October 12 2021  
+**Online**
 
 [**W-JAX**](https://jax.de/munich/)  
 November 8 – 12 2021 
