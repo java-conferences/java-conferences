@@ -22,6 +22,10 @@ October 4-7 2021
 October 12 2021  
 **Online**
 
+[**Joker**](https://jokerconf.com/)  
+October 25-28 2021  
+**Online**
+
 [**W-JAX**](https://jax.de/munich/)  
 November 8 – 12 2021 
 **Offline & Online**
