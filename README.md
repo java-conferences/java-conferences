@@ -2,14 +2,6 @@
 Repository with a list of upcoming java conferences.
 ====================================================
 
-[**jbcnconf**](https://www.jbcnconf.com/2021/)  
-July 23 2021  
-**Online**
-
-[**devoxx Poland**](https://devoxx.pl/)  
-August 25-27 2021  
-**Offline**
-
 [**JCON-ONLINE**](https://jcon.one/)  
 October 05-08 2021  
 **Online**
@@ -25,6 +17,10 @@ October 12 2021
 [**Joker**](https://jokerconf.com/)  
 October 25-28 2021  
 **Online**
+
+[**J-Fall**](https://jfall.nl/)  
+November 4 2021  
+**Offline**
 
 [**W-JAX**](https://jax.de/munich/)  
 November 8 – 12 2021 
