@@ -37,3 +37,7 @@ December 8-9 2021
 [**DevTernity**](devternity.com/)  
 December 10-11 2021  
 **Offline**
+
+[**JavaDay Lviv**](https://www.javaday.org.ua/)  
+Feb 19-20 2022  
+**Offline**
