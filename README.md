@@ -34,6 +34,10 @@ November 19-20 2021
 December 8-9 2021  
 **Offline**
 
+[**jConf.dev**](https://jConf.dev)  
+December 8-10 2021  
+**Offline**
+
 [**DevTernity**](devternity.com/)  
 December 10-11 2021  
 **Offline**
