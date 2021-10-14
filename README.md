@@ -26,6 +26,10 @@ November 4 2021
 November 8 – 12 2021 
 **Offline & Online**
 
+[**JavaDays 2021**](https://javadays.sk/sk)  
+November 10-11 2021  
+**Online**
+
 [**Devoxx Ukraine**](https://devoxx.com.ua/)  
 November 19-20 2021  
 **Online**
