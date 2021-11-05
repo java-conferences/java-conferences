@@ -49,3 +49,7 @@ December 10-11 2021
 [**JavaDay Lviv**](https://www.javaday.org.ua/)  
 Feb 19-20 2022  
 **Offline & Online**
+
+[**Jfokus 2022**](https://jfokus.se/)  
+Feb 7-9 2022  
+**Offline**
