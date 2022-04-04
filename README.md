@@ -2,14 +2,30 @@
 Repository with a list of upcoming java conferences.
 ====================================================
 
-[**jChampions Conference 2022**](https://jchampionsconf.com/)  
-Jan 20-26 2022  
-**Online**
-
-[**JavaDay Lviv**](https://www.javaday.org.ua/)  
-Feb 19-20 2022  
+[**JAX Hybrid**](https://jax.de/mainz-en)  
+May 2-6 2022 
 **Offline & Online**
 
-[**Jfokus 2022**](https://jfokus.se/)  
-Feb 7-9 2022  
-**Offline**
+[**Microsoft JDConf 2022**](https://docs.microsoft.com/en-us/events/learntv/jdconf-2022)  
+May 4-5 2022
+**Online**
+
+[**Devoxx UK**](https://devoxx.co.uk)  
+May 11-13 2022
+**Offline & Online**
+
+[**jPrime**](https://jprime.io)  
+May 25-26 2022 
+**Offline & Online**
+
+[**Spring I/O 2022**](https://2022.springio.net)  
+May 26-27 2022
+**Offline & Online**
+
+[**JavaDay Istanbul**](https://javaday.istanbul)  
+May 27-28 2022 
+**Offline & Online**
+
+[**JBCNConf**](https://jbcnconf.com)  
+Jul 18-20 2022
+**Offline & Online**
